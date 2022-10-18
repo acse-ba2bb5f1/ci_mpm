@@ -1,5 +1,7 @@
 name: pytest-unit-tests
 
+# Small change in file
+
 on:
   # Trigger the workflow on push or pull request,
   # but only for the master branch
